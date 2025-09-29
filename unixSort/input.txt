@@ -1,0 +1,8 @@
+Ivan	30	Mar
+Petr	25	Feb
+Anna	28	Jan
+Ivan	30	Mar
+Sergey	40	Dec
+Olga	35	Oct
+Dmitry	100	Nov
+Viktor	250	Jul
